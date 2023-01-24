@@ -9,20 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcc1e0bb-9f3f-4080-b539-9d2e3b33f84e" name="Changes" comment="commit1">
+    <list default="true" id="fcc1e0bb-9f3f-4080-b539-9d2e3b33f84e" name="Changes" comment="work!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/config/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/config/AppInit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/config/DBConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/config/DBConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/config/WebConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/controllers/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/dao/UserDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/dao/UserDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slepokurov/web/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/slepokurov/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/slepokurov/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webapp/WEB-INF/pages/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/webapp/WEB-INF/pages/hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +192,7 @@
       <workItem from="1674492298456" duration="7118000" />
       <workItem from="1674499502315" duration="2193000" />
       <workItem from="1674548962650" duration="5858000" />
-      <workItem from="1674556887350" duration="5360000" />
+      <workItem from="1674556887350" duration="24414000" />
     </task>
     <task id="LOCAL-00001" summary="commit1">
       <created>1674395503485</created>
@@ -207,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674395503485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="work!">
+      <created>1674562308602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674562308602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +225,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
+    <MESSAGE value="work!" />
+    <option name="LAST_COMMIT_MESSAGE" value="work!" />
   </component>
 </project>
